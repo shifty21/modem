@@ -17,11 +17,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/warthog618/modem/at"
-	"github.com/warthog618/modem/info"
-	"github.com/warthog618/modem/serial"
-	"github.com/warthog618/modem/trace"
-	"github.com/warthog618/sms/encoding/gsm7"
+	"github.com/shifty21/modem/at"
+	"github.com/shifty21/modem/info"
+	"github.com/shifty21/modem/serial"
+	"github.com/shifty21/modem/trace"
+	"github.com/shifty21/sms/encoding/gsm7"
 )
 
 var version = "undefined"
